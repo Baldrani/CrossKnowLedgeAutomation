@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "CrossKnowledge Bot Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maël Mayon",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "nightmare": "^3.0.1"
+  }
+}
